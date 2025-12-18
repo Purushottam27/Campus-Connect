@@ -200,7 +200,7 @@ export const events: Event[] = [
     time: "11:00 AM",
     venue: "Student Activity Center",
     price: "₹19",
-    posterUrl: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400&h=300&fit=crop",
+    posterUrl: "https://gfg.ggits.org/gfg-banner.png",
     clubId: "tech-club",
     clubName: "GeeksforGeeks",
     isPast: false
@@ -226,7 +226,7 @@ export const events: Event[] = [
     time: "02:00 AM",
     venue: "Sports Ground",
     price: "₹100",
-    posterUrl: "https://images.unsplash.com/photo-1461896836934-482c28bf3d8f?w=400&h=300&fit=crop",
+    posterUrl: "https://t4.ftcdn.net/jpg/02/86/76/77/240_F_286767786_boXM75PDLYIsYWzabZ3fKcM3esv50TNS.jpg",
     clubId: "sports-club",
     clubName: "SportsClub",
     isPast: false
